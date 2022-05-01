@@ -3,4 +3,6 @@ Setup for LED and Speaker
 Codding for the Operation
 Load Arduino with Code
 Connect LED and Speaker with Arduino
-Give 10V power supply
+Give 5V power supply
+
+playing Music to check the project
